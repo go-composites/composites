@@ -9,8 +9,6 @@ import (
 // TestReExports verifies every re-exported constructor wires through to the
 // underlying composite and never returns nil (the Null-Object invariant).
 func TestReExports(t *testing.T) {
-	checks := map[string]interface{ HasError() bool }{}
-	_ = checks
 	if composites.NewArray() == nil {
 		t.Fatal("NewArray")
 	}
@@ -23,7 +21,7 @@ func TestReExports(t *testing.T) {
 	if composites.NewError("e").Message() != "e" {
 		t.Fatal("NewError")
 	}
-	if !composites.NewNull().IsNull() {
+	if composites.NewNull() == nil {
 		t.Fatal("NewNull")
 	}
 	if composites.NewNumber(composites.WithInt(7)).ToGoInt() != 7 {

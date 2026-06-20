@@ -13,4 +13,7 @@ require (
 	github.com/go-composites/string v0.0.0-20260620121137-a79f39b0a2af
 )
 
-require github.com/davecgh/go-spew v1.1.1 // indirect
+require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/go-composites/nonnil v0.1.0 // indirect
+)
