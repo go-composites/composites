@@ -41,4 +41,35 @@ func TestReExports(t *testing.T) {
 	if d.Get("a").Payload() != 1 {
 		t.Fatal("NewDictionary/WithPairs")
 	}
+	if composites.NewSet(1, 2, 2).Len() != 2 {
+		t.Fatal("NewSet")
+	}
+	rng := composites.NewRange(1, 4, composites.WithStep(1), composites.Exclusive())
+	if rng.HasError() || rng.Payload().(composites.Range).Len() != 3 {
+		t.Fatal("NewRange/WithStep/Exclusive")
+	}
+	if composites.NewSymbol("foo") != composites.NewSymbol("foo") {
+		t.Fatal("NewSymbol interning")
+	}
+	if composites.TimeFromUnix(0).ToUnix() != 0 {
+		t.Fatal("TimeFromUnix")
+	}
+	if composites.TimeParse("2006-01-02", "x").HasError() != true {
+		t.Fatal("TimeParse error path")
+	}
+	if composites.DurationFromSeconds(60).ToSeconds() != 60 {
+		t.Fatal("DurationFromSeconds")
+	}
+	if composites.DurationParse("bad").HasError() != true {
+		t.Fatal("DurationParse error path")
+	}
+	if composites.NewPair(1, 2).Second() != 2 {
+		t.Fatal("NewPair")
+	}
+	called := composites.NewProc(func(args ...interface{}) composites.Result {
+		return composites.NewResult(composites.WithPayload(args[0]))
+	}).Call(99)
+	if called.HasError() || called.Payload() != 99 {
+		t.Fatal("NewProc/Call")
+	}
 }

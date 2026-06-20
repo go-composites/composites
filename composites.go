@@ -15,8 +15,15 @@ import (
 	errorsrc "github.com/go-composites/error/src"
 	nullsrc "github.com/go-composites/null/src"
 	numbersrc "github.com/go-composites/number/src"
+	pairsrc "github.com/go-composites/pair/src"
+	procsrc "github.com/go-composites/proc/src"
+	rangesrc "github.com/go-composites/range/src"
 	resultsrc "github.com/go-composites/result/src"
+	setsrc "github.com/go-composites/set/src"
 	stringsrc "github.com/go-composites/string/src"
+	symbolsrc "github.com/go-composites/symbol/src"
+	timesrc "github.com/go-composites/time/src"
+	durationsrc "github.com/go-composites/time/src/duration"
 )
 
 // Composite interface types.
@@ -29,6 +36,13 @@ type (
 	Number     = numbersrc.Interface
 	Result     = resultsrc.Interface
 	String     = stringsrc.Interface
+	Set        = setsrc.Interface
+	Range      = rangesrc.Interface
+	Symbol     = symbolsrc.Interface
+	Time       = timesrc.Interface
+	Duration   = durationsrc.Interface
+	Pair       = pairsrc.Interface
+	Proc       = procsrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -37,6 +51,7 @@ type (
 	NumberOption     = numbersrc.Option
 	ResultOption     = resultsrc.Option
 	StringOption     = stringsrc.Option
+	RangeOption      = rangesrc.Option
 )
 
 // Constructors and options, re-exported as function values.
@@ -52,10 +67,22 @@ var (
 	NewResult     = resultsrc.New
 	NewDictionary = dictionarysrc.New
 
+	NewSet              = setsrc.New
+	NewRange            = rangesrc.New
+	NewSymbol           = symbolsrc.New
+	NewPair             = pairsrc.New
+	NewProc             = procsrc.New
+	TimeFromUnix        = timesrc.FromUnix
+	TimeParse           = timesrc.Parse
+	DurationFromSeconds = durationsrc.FromSeconds
+	DurationParse       = durationsrc.Parse
+
 	WithGoString = stringsrc.WithGoString
 	WithPayload  = resultsrc.WithPayload
 	WithError    = resultsrc.WithError
 	WithInt      = numbersrc.WithInt
 	WithFloat    = numbersrc.WithFloat
 	WithPairs    = dictionarysrc.WithPairs
+	WithStep     = rangesrc.WithStep
+	Exclusive    = rangesrc.Exclusive
 )

@@ -3,19 +3,20 @@ module github.com/go-composites/composites
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260620183558-d461834dab5b
+	github.com/go-composites/array v0.0.0-20260620184536-bfe15364f583
 	github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1
 	github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81
-	github.com/go-composites/error v0.0.0-20260620121136-21c3a07f0b1e
+	github.com/go-composites/error v0.0.0-20260620184955-e79ecfc9add5
 	github.com/go-composites/null v0.0.0-20260620185315-bfdfb76ac657
-	github.com/go-composites/number v0.0.0-20260620183639-c6ede5589a2a
-	github.com/go-composites/result v0.0.0-20260620121141-63565a6be1c3
+	github.com/go-composites/number v0.0.0-20260620184540-74a36a347151
+	github.com/go-composites/pair v0.0.0-20260620192815-9c5ebb946c8a
+	github.com/go-composites/proc v0.0.0-20260620192848-d208a541f998
+	github.com/go-composites/range v0.0.0-20260620192202-55b8a5ed160d
+	github.com/go-composites/result v0.0.0-20260620185001-d3405411faf4
+	github.com/go-composites/set v0.0.0-20260620192142-23f1a50c2b92
 	github.com/go-composites/string v0.0.0-20260620183622-4b8bcf71b95d
+	github.com/go-composites/symbol v0.0.0-20260620192045-edf501557380
+	github.com/go-composites/time v0.0.0-20260620193133-9eda9fb9d25e
 )
 
-require (
-	github.com/davecgh/go-spew v1.1.1 // indirect
-	golang.org/x/net v0.56.0 // indirect
-	golang.org/x/sys v0.46.0 // indirect
-	golang.org/x/tools v0.46.0 // indirect
-)
+require github.com/davecgh/go-spew v1.1.1 // indirect
