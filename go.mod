@@ -6,6 +6,7 @@ require (
 	github.com/go-composites/array v0.0.0-20260620184536-bfe15364f583
 	github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1
 	github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81
+	github.com/go-composites/enumerator v0.0.0-20260620201457-6829daa5cfd9
 	github.com/go-composites/error v0.0.0-20260620184955-e79ecfc9add5
 	github.com/go-composites/null v0.0.0-20260620185315-bfdfb76ac657
 	github.com/go-composites/number v0.0.0-20260620184540-74a36a347151

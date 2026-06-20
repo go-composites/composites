@@ -8,6 +8,8 @@ github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1 h1:uJUOzbmfx
 github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1/go.mod h1:zAiDqCRGUrkIq9vhGAcDDOjD3wyL4iXfE69rwtzzm7s=
 github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81 h1:/JKx7HX2A/eW8xez3vNep3WhfEsezeiyqR7TsTs5iVE=
 github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81/go.mod h1:5vcGB6czy5GIjCh91woIjota004VjVws/QXBP47hgkE=
+github.com/go-composites/enumerator v0.0.0-20260620201457-6829daa5cfd9 h1:OgZYlINuzNJKCbL5frQyqNkby3QHO1lfRoBmYe0Afas=
+github.com/go-composites/enumerator v0.0.0-20260620201457-6829daa5cfd9/go.mod h1:d85XH8j5UVHz9S8EHSaCeoey7jNXP8ACvtbRqjJuRw8=
 github.com/go-composites/error v0.0.0-20260620184955-e79ecfc9add5 h1:MUzZjZudy45m5DoAGNmJFiHHnMtL/FEhHsZibkCNQxM=
 github.com/go-composites/error v0.0.0-20260620184955-e79ecfc9add5/go.mod h1:9Lf1BQDdG/DDzw+WaWctBOzk69PTLjREAiPcKfSUilU=
 github.com/go-composites/null v0.0.0-20260620185315-bfdfb76ac657 h1:hb4i/fLKh7Sa0xj6vedqSeijB5n3QHkykaTMyTn5KGU=

@@ -12,6 +12,7 @@ import (
 	arraysrc "github.com/go-composites/array/src"
 	booleansrc "github.com/go-composites/boolean/src"
 	dictionarysrc "github.com/go-composites/dictionary/src"
+	enumeratorsrc "github.com/go-composites/enumerator/src"
 	errorsrc "github.com/go-composites/error/src"
 	nullsrc "github.com/go-composites/null/src"
 	numbersrc "github.com/go-composites/number/src"
@@ -43,6 +44,7 @@ type (
 	Duration   = durationsrc.Interface
 	Pair       = pairsrc.Interface
 	Proc       = procsrc.Interface
+	Enumerator = enumeratorsrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -72,6 +74,8 @@ var (
 	NewSymbol           = symbolsrc.New
 	NewPair             = pairsrc.New
 	NewProc             = procsrc.New
+	NewEnumerator       = enumeratorsrc.New
+	Generate            = enumeratorsrc.Generate
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds

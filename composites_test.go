@@ -72,4 +72,11 @@ func TestReExports(t *testing.T) {
 	if called.HasError() || called.Payload() != 99 {
 		t.Fatal("NewProc/Call")
 	}
+	if composites.NewEnumerator(1, 2, 3).ToArray().Len() != 3 {
+		t.Fatal("NewEnumerator")
+	}
+	lazy := composites.Generate(1, func(x interface{}) interface{} { return x.(int) + 1 }).Take(2).ToArray()
+	if lazy.Len() != 2 {
+		t.Fatal("Generate/Take")
+	}
 }
