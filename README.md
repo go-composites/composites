@@ -2,6 +2,8 @@
 
 # composites
 
+[![ci](https://github.com/go-composites/composites/actions/workflows/ci.yml/badge.svg)](https://github.com/go-composites/composites/actions/workflows/ci.yml)
+
 One import for the whole [go-composites](https://github.com/go-composites)
 vocabulary. Instead of importing each `…/src` package, import `composites` and
 reach every building block — `Array`, `Boolean`, `String`, `Number`,
