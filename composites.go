@@ -10,12 +10,14 @@ package composites
 
 import (
 	arraysrc "github.com/go-composites/array/src"
+	bignumbersrc "github.com/go-composites/bignumber/src"
 	booleansrc "github.com/go-composites/boolean/src"
 	dictionarysrc "github.com/go-composites/dictionary/src"
 	enumeratorsrc "github.com/go-composites/enumerator/src"
 	errorsrc "github.com/go-composites/error/src"
 	nullsrc "github.com/go-composites/null/src"
 	numbersrc "github.com/go-composites/number/src"
+	orderedsetsrc "github.com/go-composites/orderedset/src"
 	pairsrc "github.com/go-composites/pair/src"
 	procsrc "github.com/go-composites/proc/src"
 	rangesrc "github.com/go-composites/range/src"
@@ -45,6 +47,8 @@ type (
 	Pair       = pairsrc.Interface
 	Proc       = procsrc.Interface
 	Enumerator = enumeratorsrc.Interface
+	BigNumber  = bignumbersrc.Interface
+	OrderedSet = orderedsetsrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -76,6 +80,9 @@ var (
 	NewProc             = procsrc.New
 	NewEnumerator       = enumeratorsrc.New
 	Generate            = enumeratorsrc.Generate
+	NewOrderedSet       = orderedsetsrc.New
+	BigNumberFromInt64  = bignumbersrc.FromInt64
+	BigNumberParse      = bignumbersrc.FromString
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds

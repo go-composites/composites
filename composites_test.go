@@ -79,4 +79,11 @@ func TestReExports(t *testing.T) {
 	if lazy.Len() != 2 {
 		t.Fatal("Generate/Take")
 	}
+	if composites.NewOrderedSet(1, 2, 2, 3).Len() != 3 {
+		t.Fatal("NewOrderedSet")
+	}
+	big := composites.BigNumberParse("340282366920938463463374607431768211456")
+	if big.HasError() || big.Payload().(composites.BigNumber).Add(composites.BigNumberFromInt64(0)).HasError() {
+		t.Fatal("BigNumberParse/FromInt64")
+	}
 }
