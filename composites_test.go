@@ -21,7 +21,7 @@ func TestReExports(t *testing.T) {
 	if composites.NewError("e").Message() != "e" {
 		t.Fatal("NewError")
 	}
-	if composites.NewNull() == nil {
+	if !composites.NewNull().IsNull() {
 		t.Fatal("NewNull")
 	}
 	if composites.NewNumber(composites.WithInt(7)).ToGoInt() != 7 {
