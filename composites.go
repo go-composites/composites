@@ -10,8 +10,10 @@ package composites
 
 import (
 	arraysrc "github.com/go-composites/array/src"
+	bigfloatsrc "github.com/go-composites/bigfloat/src"
 	bignumbersrc "github.com/go-composites/bignumber/src"
 	booleansrc "github.com/go-composites/boolean/src"
+	buffersrc "github.com/go-composites/buffer/src"
 	complexsrc "github.com/go-composites/complex/src"
 	dictionarysrc "github.com/go-composites/dictionary/src"
 	enumeratorsrc "github.com/go-composites/enumerator/src"
@@ -25,6 +27,7 @@ import (
 	rationalsrc "github.com/go-composites/rational/src"
 	resultsrc "github.com/go-composites/result/src"
 	setsrc "github.com/go-composites/set/src"
+	sortedsetsrc "github.com/go-composites/sortedset/src"
 	stringsrc "github.com/go-composites/string/src"
 	symbolsrc "github.com/go-composites/symbol/src"
 	timesrc "github.com/go-composites/time/src"
@@ -53,6 +56,9 @@ type (
 	OrderedSet = orderedsetsrc.Interface
 	Rational   = rationalsrc.Interface
 	Complex    = complexsrc.Interface
+	BigFloat   = bigfloatsrc.Interface
+	SortedSet  = sortedsetsrc.Interface
+	Buffer     = buffersrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -91,6 +97,11 @@ var (
 	RationalParse       = rationalsrc.FromString
 	NewComplex          = complexsrc.New
 	ComplexFromReal     = complexsrc.FromReal
+	BigFloatFromFloat64 = bigfloatsrc.FromFloat64
+	BigFloatParse       = bigfloatsrc.FromString
+	NewSortedSet        = sortedsetsrc.New
+	NewBuffer           = buffersrc.New
+	BufferFrom          = buffersrc.From
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds

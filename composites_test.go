@@ -94,4 +94,14 @@ func TestReExports(t *testing.T) {
 	if c.Abs() != 5 || composites.ComplexFromReal(2).Imaginary() != 0 {
 		t.Fatal("Complex")
 	}
+	if composites.BigFloatFromFloat64(1.5).ToFloat64() != 1.5 || composites.BigFloatParse("x").HasError() != true {
+		t.Fatal("BigFloat")
+	}
+	ss := composites.NewSortedSet(func(a, b interface{}) bool { return a.(int) < b.(int) }, 3, 1, 2)
+	if ss.First().Payload() != 1 || ss.Last().Payload() != 3 {
+		t.Fatal("NewSortedSet")
+	}
+	if composites.NewBuffer().Append("a").Append("b").ToGoString() != "ab" || composites.BufferFrom("x").Len() != 1 {
+		t.Fatal("Buffer")
+	}
 }
