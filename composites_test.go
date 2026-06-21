@@ -104,4 +104,11 @@ func TestReExports(t *testing.T) {
 	if composites.NewBuffer().Append("a").Append("b").ToGoString() != "ab" || composites.BufferFrom("x").Len() != 1 {
 		t.Fatal("Buffer")
 	}
+	d2 := composites.DateFromYMD(2026, 6, 21)
+	if d2.HasError() || d2.Payload().(composites.Date).ToGoString() != "2026-06-21" {
+		t.Fatal("DateFromYMD")
+	}
+	if composites.DateParse("nope").HasError() != true {
+		t.Fatal("DateParse error path")
+	}
 }

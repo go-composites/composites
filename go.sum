@@ -14,6 +14,8 @@ github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c h1:lmcAw2oVtY
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c/go.mod h1:bn7e0tulw0QZv+9cu5b3aqmVqBYTFewbQqBw4NJs3/U=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e h1:CXBIEl/QlKMJeMjYiwcQqO5nMn/YafQwVOm08IXV33Y=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e/go.mod h1:6QJVzfdW48ELiSIUMZ9euPOVwEFaPzfBxyLrXlGN8FM=
+github.com/go-composites/date v0.0.0-20260621165615-4d7c6c9e19f2 h1:COU720wJLFaEdsQaGuBRqljt7seskw9y2tG+zfHidUs=
+github.com/go-composites/date v0.0.0-20260621165615-4d7c6c9e19f2/go.mod h1:JVYwzG9Z9fmIWf259cHUQwBFfufME4hLvG7EENI4UOA=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de h1:fcrMKp0ZmhWPwjwGRwBFSctPzsVYGh9HCi/GSEo5AX4=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de/go.mod h1:AoX4Zn6DyO1Ev2K+Yi0eNRo2Lu3DoIv7JOG8YNQ+4Is=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce h1:I0CZcwqnM+7nErVDiIL8o4tw/6/7sfDiQW23XGqyRnI=
@@ -34,8 +36,8 @@ github.com/go-composites/range v0.0.0-20260621063037-435953badcc9 h1:YJQyBdU0V5h
 github.com/go-composites/range v0.0.0-20260621063037-435953badcc9/go.mod h1:lRtQUlNwT5/PG+num5R8BGZA36AlC1EdcsAGEzcM+QQ=
 github.com/go-composites/rational v0.0.0-20260621063143-c5b2c622c831 h1:CiDkezQdoO7lWsb7AqZmmCou7OogIxDo4fj2D7eDEFg=
 github.com/go-composites/rational v0.0.0-20260621063143-c5b2c622c831/go.mod h1:Uj5HaTYGNDdlYDPU3z4tqKxT0mtkAL9aEDWRNK/tNNo=
-github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2 h1:viW4pFFcVIZI7r/2I5LzjrHti/w4yaj4YbD8CdfrOHg=
-github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2/go.mod h1:gvGXTgh97uhqQjR16Te5aGr/Y4g1xQXDHc2nNYEj8/Y=
+github.com/go-composites/result v0.0.0-20260621164801-bc2eac479381 h1:lefnD/dZINKBoIevcl16pbzh1A8B9jifm9rhenBkWUg=
+github.com/go-composites/result v0.0.0-20260621164801-bc2eac479381/go.mod h1:U8jOcQwbbSwQ3E5geccvv0lkwNv89piHYG/Jj1w18JQ=
 github.com/go-composites/set v0.0.0-20260621062940-66303411d5fd h1:6TXw9qb8nWMUDhholiZWi+A+03MaAM86k0JZ7xNHhzU=
 github.com/go-composites/set v0.0.0-20260621062940-66303411d5fd/go.mod h1:sF3/ImzeQT4pqc+xAF0pWrDTKhNrXxCOpSshwW4wcwU=
 github.com/go-composites/sortedset v0.0.0-20260621063007-71b9d6a1b83a h1:hPharCH+e3A42iS3y/PdHGSwm6sotK2lWZ2ulaYnT2I=

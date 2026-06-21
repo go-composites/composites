@@ -9,6 +9,7 @@ require (
 	github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02
 	github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c
 	github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e
+	github.com/go-composites/date v0.0.0-20260621165615-4d7c6c9e19f2
 	github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de
 	github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce
 	github.com/go-composites/error v0.0.0-20260621061850-8f949885a586
@@ -19,7 +20,7 @@ require (
 	github.com/go-composites/proc v0.0.0-20260621063101-5567df7f1cd2
 	github.com/go-composites/range v0.0.0-20260621063037-435953badcc9
 	github.com/go-composites/rational v0.0.0-20260621063143-c5b2c622c831
-	github.com/go-composites/result v0.0.0-20260621061851-32adc2fb3ac2
+	github.com/go-composites/result v0.0.0-20260621164801-bc2eac479381
 	github.com/go-composites/set v0.0.0-20260621062940-66303411d5fd
 	github.com/go-composites/sortedset v0.0.0-20260621063007-71b9d6a1b83a
 	github.com/go-composites/string v0.0.0-20260621062835-91506e1e3f94

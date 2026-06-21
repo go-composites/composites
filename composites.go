@@ -15,6 +15,7 @@ import (
 	booleansrc "github.com/go-composites/boolean/src"
 	buffersrc "github.com/go-composites/buffer/src"
 	complexsrc "github.com/go-composites/complex/src"
+	datesrc "github.com/go-composites/date/src"
 	dictionarysrc "github.com/go-composites/dictionary/src"
 	enumeratorsrc "github.com/go-composites/enumerator/src"
 	errorsrc "github.com/go-composites/error/src"
@@ -59,6 +60,7 @@ type (
 	BigFloat   = bigfloatsrc.Interface
 	SortedSet  = sortedsetsrc.Interface
 	Buffer     = buffersrc.Interface
+	Date       = datesrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -102,6 +104,8 @@ var (
 	NewSortedSet        = sortedsetsrc.New
 	NewBuffer           = buffersrc.New
 	BufferFrom          = buffersrc.From
+	DateFromYMD         = datesrc.FromYMD
+	DateParse           = datesrc.Parse
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds
