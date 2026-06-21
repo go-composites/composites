@@ -12,6 +12,7 @@ import (
 	arraysrc "github.com/go-composites/array/src"
 	bignumbersrc "github.com/go-composites/bignumber/src"
 	booleansrc "github.com/go-composites/boolean/src"
+	complexsrc "github.com/go-composites/complex/src"
 	dictionarysrc "github.com/go-composites/dictionary/src"
 	enumeratorsrc "github.com/go-composites/enumerator/src"
 	errorsrc "github.com/go-composites/error/src"
@@ -21,6 +22,7 @@ import (
 	pairsrc "github.com/go-composites/pair/src"
 	procsrc "github.com/go-composites/proc/src"
 	rangesrc "github.com/go-composites/range/src"
+	rationalsrc "github.com/go-composites/rational/src"
 	resultsrc "github.com/go-composites/result/src"
 	setsrc "github.com/go-composites/set/src"
 	stringsrc "github.com/go-composites/string/src"
@@ -49,6 +51,8 @@ type (
 	Enumerator = enumeratorsrc.Interface
 	BigNumber  = bignumbersrc.Interface
 	OrderedSet = orderedsetsrc.Interface
+	Rational   = rationalsrc.Interface
+	Complex    = complexsrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -83,6 +87,10 @@ var (
 	NewOrderedSet       = orderedsetsrc.New
 	BigNumberFromInt64  = bignumbersrc.FromInt64
 	BigNumberParse      = bignumbersrc.FromString
+	RationalFromInts    = rationalsrc.FromInts
+	RationalParse       = rationalsrc.FromString
+	NewComplex          = complexsrc.New
+	ComplexFromReal     = complexsrc.FromReal
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds

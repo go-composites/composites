@@ -86,4 +86,12 @@ func TestReExports(t *testing.T) {
 	if big.HasError() || big.Payload().(composites.BigNumber).Add(composites.BigNumberFromInt64(0)).HasError() {
 		t.Fatal("BigNumberParse/FromInt64")
 	}
+	half := composites.RationalFromInts(1, 2)
+	if half.HasError() || composites.RationalParse("3/4").HasError() {
+		t.Fatal("Rational")
+	}
+	c := composites.NewComplex(3, 4)
+	if c.Abs() != 5 || composites.ComplexFromReal(2).Imaginary() != 0 {
+		t.Fatal("Complex")
+	}
 }

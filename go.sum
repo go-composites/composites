@@ -8,6 +8,8 @@ github.com/go-composites/bignumber v0.0.0-20260620202958-21ec9e878766 h1:Am70++D
 github.com/go-composites/bignumber v0.0.0-20260620202958-21ec9e878766/go.mod h1:MYMV5nRxsf4Mb4wrDqHkzNL69foR8Y1PrgepJ0wyKq4=
 github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1 h1:uJUOzbmfxCyzFW/wyVAcricJg2o9yOO1KNpc+Ek5/j0=
 github.com/go-composites/boolean v0.0.0-20260620181453-406994afc2f1/go.mod h1:zAiDqCRGUrkIq9vhGAcDDOjD3wyL4iXfE69rwtzzm7s=
+github.com/go-composites/complex v0.0.0-20260621043717-03eff574890e h1:+qPN9HeRxhWvH97tJ9c4RNNDFG/gSAvXs3vIMazbEtU=
+github.com/go-composites/complex v0.0.0-20260621043717-03eff574890e/go.mod h1:up2FsV4YnLyMqAWM2ZTs0tz6xG/oE0H4Xyi4RFOhkP0=
 github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81 h1:/JKx7HX2A/eW8xez3vNep3WhfEsezeiyqR7TsTs5iVE=
 github.com/go-composites/dictionary v0.0.0-20260620153236-ff7fd4776d81/go.mod h1:5vcGB6czy5GIjCh91woIjota004VjVws/QXBP47hgkE=
 github.com/go-composites/enumerator v0.0.0-20260620201457-6829daa5cfd9 h1:OgZYlINuzNJKCbL5frQyqNkby3QHO1lfRoBmYe0Afas=
@@ -26,6 +28,8 @@ github.com/go-composites/proc v0.0.0-20260620192848-d208a541f998 h1:Q7TBfSH5CczU
 github.com/go-composites/proc v0.0.0-20260620192848-d208a541f998/go.mod h1:uTnJKsD+8hSG8uEc+twc2c9oBGkzfKqUMn2C0Owu/dk=
 github.com/go-composites/range v0.0.0-20260620192202-55b8a5ed160d h1:APj5+DLr+9xHc28D15QAnJ+bovKA5GvrB2uF93QsrzA=
 github.com/go-composites/range v0.0.0-20260620192202-55b8a5ed160d/go.mod h1:FCdU5z4GUceOH5sav9r1MT0unN1/m5ErTDxBcMCaqVI=
+github.com/go-composites/rational v0.0.0-20260621043808-c74f6382bc41 h1:kfb2yT++kEmqZtuKfg51+zw7YIM1h3BsCDVv2L2ACRI=
+github.com/go-composites/rational v0.0.0-20260621043808-c74f6382bc41/go.mod h1:0twKxa3wS3L2q3+c58kUZfsNTYGH6jL5PhUjdZI5yMY=
 github.com/go-composites/result v0.0.0-20260620185001-d3405411faf4 h1:mX9Ppc+aSiw3hswVtI3daX6ZIE7/gMYllGJrOkb/iWE=
 github.com/go-composites/result v0.0.0-20260620185001-d3405411faf4/go.mod h1:gvGXTgh97uhqQjR16Te5aGr/Y4g1xQXDHc2nNYEj8/Y=
 github.com/go-composites/set v0.0.0-20260620192142-23f1a50c2b92 h1:1WaNiMYdoCjnTzmQ7wQZpHsFf4ajYJmLGiwCNweBU/g=
