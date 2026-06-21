@@ -111,4 +111,7 @@ func TestReExports(t *testing.T) {
 	if composites.DateParse("nope").HasError() != true {
 		t.Fatal("DateParse error path")
 	}
+	if composites.NewBag("a", "a", "b").Count("a") != 2 || composites.NewBag("a", "a", "b").Len() != 3 {
+		t.Fatal("NewBag")
+	}
 }

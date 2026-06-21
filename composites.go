@@ -10,6 +10,7 @@ package composites
 
 import (
 	arraysrc "github.com/go-composites/array/src"
+	bagsrc "github.com/go-composites/bag/src"
 	bigfloatsrc "github.com/go-composites/bigfloat/src"
 	bignumbersrc "github.com/go-composites/bignumber/src"
 	booleansrc "github.com/go-composites/boolean/src"
@@ -61,6 +62,7 @@ type (
 	SortedSet  = sortedsetsrc.Interface
 	Buffer     = buffersrc.Interface
 	Date       = datesrc.Interface
+	Bag        = bagsrc.Interface
 )
 
 // Functional-option types for the option-taking constructors.
@@ -106,6 +108,7 @@ var (
 	BufferFrom          = buffersrc.From
 	DateFromYMD         = datesrc.FromYMD
 	DateParse           = datesrc.Parse
+	NewBag              = bagsrc.New
 	TimeFromUnix        = timesrc.FromUnix
 	TimeParse           = timesrc.Parse
 	DurationFromSeconds = durationsrc.FromSeconds
