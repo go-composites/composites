@@ -6,8 +6,11 @@
 
 One import for the whole [go-composites](https://github.com/go-composites)
 vocabulary. Instead of importing each `…/src` package, import `composites` and
-reach every building block — `Array`, `Boolean`, `String`, `Number`,
-`Dictionary`, `Result`, `Error`, `Null` — with their constructors and options.
+reach every building block — `Array`, `Boolean`, `String`, `Buffer`, `Number`,
+`BigNumber`, `Rational`, `Complex`, `BigFloat`, `Dictionary`, `Set`,
+`OrderedSet`, `SortedSet`, `Bag`, `Range`, `Pair`, `Symbol`, `Time`,
+`Duration`, `Date`, `Proc`, `Enumerator`, `Result`, `Error`, `Null` — with
+their constructors and options.
 
 It is a zero-cost facade: the types are **aliases** (a `composites.Result` *is* a
 `result/src.Interface`, fully interoperable), and the constructors are
@@ -39,8 +42,25 @@ a.Push(composites.True())
 | `NewArray()` | ordered collection (`Map`/`Filter`/`Reduce`/…) |
 | `NewBoolean(b)` / `True()` / `False()` | boolean |
 | `NewString(WithGoString(s))` | string |
+| `NewBuffer()` / `BufferFrom(s)` | mutable text buffer (StringBuilder) |
 | `NewNumber(WithInt(i))` / `WithFloat(f)` | number (Result-returning arithmetic) |
+| `BigNumberFromInt64(i)` / `BigNumberParse(s)` | arbitrary-precision integer |
+| `RationalFromInts(n, d)` / `RationalParse(s)` | exact rational |
+| `NewComplex(re, im)` / `ComplexFromReal(re)` | complex number |
+| `BigFloatFromFloat64(f)` / `BigFloatParse(s)` | arbitrary-precision float |
 | `NewDictionary(WithPairs(m))` | key→value map |
+| `NewSet(items…)` | unordered unique collection |
+| `NewOrderedSet(items…)` | insertion-ordered set |
+| `NewSortedSet(less, items…)` | comparator-sorted set |
+| `NewBag(items…)` | multiset / counter |
+| `NewRange(begin, end, WithStep(n) / Exclusive)` | numeric interval |
+| `NewPair(first, second)` | two-element grouping |
+| `NewSymbol(name)` | interned identifier |
+| `TimeFromUnix(sec)` / `TimeParse(layout, s)` | time instant |
+| `DurationFromSeconds(sec)` / `DurationParse(s)` | duration span |
+| `DateFromYMD(y, m, d)` / `DateParse(s)` | calendar date |
+| `NewProc(fn)` | first-class callable |
+| `NewEnumerator(...)` / `Generate(...)` | lazy sequence |
 | `NewResult(WithPayload(x))` / `WithError(e)` | result |
 | `NewError(msg)` | error |
 | `NewNull()` | the Null object |
