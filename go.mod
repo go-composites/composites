@@ -6,7 +6,7 @@ require (
 	github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6
 	github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62
 	github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d
-	github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4
+	github.com/go-composites/bignumber v0.0.0-20260830075446-49650eed0794
 	github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02
 	github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c
 	github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e

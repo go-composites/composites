@@ -10,6 +10,8 @@ github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d h1:ja934uqR
 github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d/go.mod h1:GO9D8wd3+kDK00/NcpTJK1dx+p+ecGbOPPZcgCifZJY=
 github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4 h1:/j9gmNxaTnqw2eJqgZEGGrWbkOZwsogJk5/ZBEU0Ojk=
 github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4/go.mod h1:59dCDyAuCzyTWd0fxj3U+V160vEg1H6RUsFPueY5Roc=
+github.com/go-composites/bignumber v0.0.0-20260830075446-49650eed0794 h1:HtuhrvUDywPuY57CTXxBQxlq81gJP9NZxPcSULDhJKw=
+github.com/go-composites/bignumber v0.0.0-20260830075446-49650eed0794/go.mod h1:59dCDyAuCzyTWd0fxj3U+V160vEg1H6RUsFPueY5Roc=
 github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02 h1:2TQvwbOZVFAN9AM/isddbIi0vRLtwwSaDi/w084a7Ww=
 github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02/go.mod h1:+Ri1DTHiTCa404bJY2qRfBIy6a6dBA/Mgn5wx196Gzc=
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c h1:lmcAw2oVtYnkzGn11wXq2r2GdUAwmj88ULDHfATiT8g=
