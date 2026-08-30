@@ -20,6 +20,8 @@ github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe h1:yEJlneGevTHI
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe/go.mod h1:JVYwzG9Z9fmIWf259cHUQwBFfufME4hLvG7EENI4UOA=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de h1:fcrMKp0ZmhWPwjwGRwBFSctPzsVYGh9HCi/GSEo5AX4=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de/go.mod h1:AoX4Zn6DyO1Ev2K+Yi0eNRo2Lu3DoIv7JOG8YNQ+4Is=
+github.com/go-composites/dictionary v0.0.0-20260830075430-cde38a320fea h1:Y2CtfDcxh6nX0JKVbY3NtOKjKdgsdJNSqGo7M2VJc9I=
+github.com/go-composites/dictionary v0.0.0-20260830075430-cde38a320fea/go.mod h1:AoX4Zn6DyO1Ev2K+Yi0eNRo2Lu3DoIv7JOG8YNQ+4Is=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce h1:I0CZcwqnM+7nErVDiIL8o4tw/6/7sfDiQW23XGqyRnI=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce/go.mod h1:SJl46dHhrCLH5JTQkhFoloxIRwzMIpUCaMzVCnzhX1A=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586 h1:gA6h4DA7NSiDoqwYDMUlQ2LO/dWx3VBq41nHIMQJskI=

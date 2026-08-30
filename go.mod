@@ -11,7 +11,7 @@ require (
 	github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c
 	github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e
 	github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe
-	github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de
+	github.com/go-composites/dictionary v0.0.0-20260830075430-cde38a320fea
 	github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce
 	github.com/go-composites/error v0.0.0-20260621061850-8f949885a586
 	github.com/go-composites/null v0.0.0-20260621061849-c8074799d5aa
