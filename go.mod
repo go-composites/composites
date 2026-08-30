@@ -3,7 +3,7 @@ module github.com/go-composites/composites
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6
+	github.com/go-composites/array v0.0.0-20260830075419-4183af1bd259
 	github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62
 	github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d
 	github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4

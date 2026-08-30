@@ -4,6 +4,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6 h1:gJG8ekSggliP8pmp4R+VCqq2nGq5BLiyEoO0BHDOYl4=
 github.com/go-composites/array v0.0.0-20260621062820-1aa11b71d5d6/go.mod h1:hhWmL0cQYEqlwbktG0uhz17sTRDcq1Gtgs1FO9aI+gU=
+github.com/go-composites/array v0.0.0-20260830075419-4183af1bd259 h1:JCmaG0NoH2+Uyk3GbRZip3AxNBkGcFf0j/C2Cl0JZQ8=
+github.com/go-composites/array v0.0.0-20260830075419-4183af1bd259/go.mod h1:hhWmL0cQYEqlwbktG0uhz17sTRDcq1Gtgs1FO9aI+gU=
 github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62 h1:HcBdYJtXHSQ8AoGdyfpN5CU19d3dZ11kv13IxXWpcd8=
 github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62/go.mod h1:7Fnlw3jRLBt7bLkwddO8zdOAD1d4PRYhE1M3wPvTe6c=
 github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d h1:ja934uqRP89wGEXI8hheXZwn0zBg+O7gRuB5izHPTTk=
