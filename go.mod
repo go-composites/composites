@@ -12,7 +12,7 @@ require (
 	github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e
 	github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe
 	github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de
-	github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce
+	github.com/go-composites/enumerator v0.0.0-20260830075444-0ad087b8b1bb
 	github.com/go-composites/error v0.0.0-20260621061850-8f949885a586
 	github.com/go-composites/null v0.0.0-20260621061849-c8074799d5aa
 	github.com/go-composites/number v0.0.0-20260621162604-c12ef12276a5

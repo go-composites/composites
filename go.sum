@@ -22,6 +22,8 @@ github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de h1:fcrMKp
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de/go.mod h1:AoX4Zn6DyO1Ev2K+Yi0eNRo2Lu3DoIv7JOG8YNQ+4Is=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce h1:I0CZcwqnM+7nErVDiIL8o4tw/6/7sfDiQW23XGqyRnI=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce/go.mod h1:SJl46dHhrCLH5JTQkhFoloxIRwzMIpUCaMzVCnzhX1A=
+github.com/go-composites/enumerator v0.0.0-20260830075444-0ad087b8b1bb h1:KnU+f2tvZbNZK4/fT8NgFzanoDd1NSSEygw8A7s+js4=
+github.com/go-composites/enumerator v0.0.0-20260830075444-0ad087b8b1bb/go.mod h1:SJl46dHhrCLH5JTQkhFoloxIRwzMIpUCaMzVCnzhX1A=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586 h1:gA6h4DA7NSiDoqwYDMUlQ2LO/dWx3VBq41nHIMQJskI=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586/go.mod h1:9Lf1BQDdG/DDzw+WaWctBOzk69PTLjREAiPcKfSUilU=
 github.com/go-composites/null v0.0.0-20260621061849-c8074799d5aa h1:C7LXruttK94qEUNp4HV5Cqcxt+kp5NXSB0nxKVa0N+c=
