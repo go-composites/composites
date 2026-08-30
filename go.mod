@@ -9,7 +9,7 @@ require (
 	github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4
 	github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02
 	github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c
-	github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e
+	github.com/go-composites/complex v0.0.0-20260830075447-63f04c4f2b0e
 	github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe
 	github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de
 	github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce

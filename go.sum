@@ -16,6 +16,8 @@ github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c h1:lmcAw2oVtY
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c/go.mod h1:bn7e0tulw0QZv+9cu5b3aqmVqBYTFewbQqBw4NJs3/U=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e h1:CXBIEl/QlKMJeMjYiwcQqO5nMn/YafQwVOm08IXV33Y=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e/go.mod h1:6QJVzfdW48ELiSIUMZ9euPOVwEFaPzfBxyLrXlGN8FM=
+github.com/go-composites/complex v0.0.0-20260830075447-63f04c4f2b0e h1:jEam2FK47M2an3XVb546LxXudKnSV+IIVSJ14XA8wJU=
+github.com/go-composites/complex v0.0.0-20260830075447-63f04c4f2b0e/go.mod h1:6QJVzfdW48ELiSIUMZ9euPOVwEFaPzfBxyLrXlGN8FM=
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe h1:yEJlneGevTHI25Ua+pSXFOwJzFmAWggBIngyVZ8xTJc=
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe/go.mod h1:JVYwzG9Z9fmIWf259cHUQwBFfufME4hLvG7EENI4UOA=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de h1:fcrMKp0ZmhWPwjwGRwBFSctPzsVYGh9HCi/GSEo5AX4=
