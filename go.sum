@@ -14,6 +14,8 @@ github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02 h1:2TQvwbOZV
 github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02/go.mod h1:+Ri1DTHiTCa404bJY2qRfBIy6a6dBA/Mgn5wx196Gzc=
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c h1:lmcAw2oVtYnkzGn11wXq2r2GdUAwmj88ULDHfATiT8g=
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c/go.mod h1:bn7e0tulw0QZv+9cu5b3aqmVqBYTFewbQqBw4NJs3/U=
+github.com/go-composites/buffer v0.0.0-20260830075449-1c99fc3bac86 h1:YNL7FOxqblrPxrvAZmqn6754BCTR2X4JqEPKhm3eGoA=
+github.com/go-composites/buffer v0.0.0-20260830075449-1c99fc3bac86/go.mod h1:bn7e0tulw0QZv+9cu5b3aqmVqBYTFewbQqBw4NJs3/U=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e h1:CXBIEl/QlKMJeMjYiwcQqO5nMn/YafQwVOm08IXV33Y=
 github.com/go-composites/complex v0.0.0-20260621063208-a4e2c6be5f6e/go.mod h1:6QJVzfdW48ELiSIUMZ9euPOVwEFaPzfBxyLrXlGN8FM=
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe h1:yEJlneGevTHI25Ua+pSXFOwJzFmAWggBIngyVZ8xTJc=
