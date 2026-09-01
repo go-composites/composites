@@ -10,6 +10,8 @@ github.com/go-composites/array v0.0.0-20260830124236-135dbfbadd64 h1:Blh9YKwQYHt
 github.com/go-composites/array v0.0.0-20260830124236-135dbfbadd64/go.mod h1:IFGON73gOXTEau7Nmm2gPtNCOE1ks2Xii9JXutdnCd8=
 github.com/go-composites/array v0.0.0-20260831064122-5109ee981461 h1:YtJUPL5DKmzChZuoqziSbTiat9HFz56o/qwwkJ9r9bo=
 github.com/go-composites/array v0.0.0-20260831064122-5109ee981461/go.mod h1:YVUPnJf/9/PbYu+n/oMFceRKaXMlw4pSoFFHn4CZ35g=
+github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5 h1:Is/sT4Hj0mVYE8YTwI1OnYbZVP78WkcFlHCjFjEaFTg=
+github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5/go.mod h1:vaBWcFcbTxFK+S3w2Ni3xlKjq74KXM5JsIuHTyRFdaI=
 github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62 h1:HcBdYJtXHSQ8AoGdyfpN5CU19d3dZ11kv13IxXWpcd8=
 github.com/go-composites/bag v0.0.0-20260621180003-a1aa1a8eec62/go.mod h1:7Fnlw3jRLBt7bLkwddO8zdOAD1d4PRYhE1M3wPvTe6c=
 github.com/go-composites/bag v0.0.0-20260830112609-d51e3dfbb5d4 h1:S+QHACVHIVo3ukacuJ8ZYgQO+GuV3Kzn/o8GAKQpGHo=
@@ -18,6 +20,8 @@ github.com/go-composites/bag v0.0.0-20260830124246-9355f584101c h1:lYQQFlvk2SUiM
 github.com/go-composites/bag v0.0.0-20260830124246-9355f584101c/go.mod h1:gl5VwtiqCnLvB0ncGTDpANNPH7e8n8sjfqBfRuGcDbE=
 github.com/go-composites/bag v0.0.0-20260831064104-7c245a0a5be9 h1:wIByAaN6nlBQXFq+ANtyuYuvhyZr7gQV8UpkccY7Fbg=
 github.com/go-composites/bag v0.0.0-20260831064104-7c245a0a5be9/go.mod h1:pjV1SOnJqPVjsQXkvPKxZCFFaUk1VRL/h00PMbxVTdo=
+github.com/go-composites/bag v0.0.0-20260831114451-25a3b66ab6d0 h1:20y9dVRyPa8yTqJ7iMuvc7HtXG4o+jguncCjivMBWYM=
+github.com/go-composites/bag v0.0.0-20260831114451-25a3b66ab6d0/go.mod h1:O0mbwo1ULvJ4pZec1qFUrWRqzb005PdTWvmsayAjENw=
 github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d h1:ja934uqRP89wGEXI8hheXZwn0zBg+O7gRuB5izHPTTk=
 github.com/go-composites/bigfloat v0.0.0-20260621182601-a3f86ca9330d/go.mod h1:GO9D8wd3+kDK00/NcpTJK1dx+p+ecGbOPPZcgCifZJY=
 github.com/go-composites/bigfloat v0.0.0-20260830075452-047fee37bfe9 h1:CHBIi+Zz1j8k6lq638rtlsEqucgPCkdX7v8qVuK2IkU=
@@ -26,6 +30,8 @@ github.com/go-composites/bigfloat v0.0.0-20260830144603-d89e7d5243f7 h1:yWbln9+4
 github.com/go-composites/bigfloat v0.0.0-20260830144603-d89e7d5243f7/go.mod h1:MX1hJdXA6UL5Zjt3MbGKRIrFw+GdxkQnas1TDgDhiDI=
 github.com/go-composites/bigfloat v0.0.0-20260831064136-0cfa56d1dcc4 h1:0Qzg6PA9cpXTc2bdFoK6cdBhVJ/8oB25xAgLhl3m31c=
 github.com/go-composites/bigfloat v0.0.0-20260831064136-0cfa56d1dcc4/go.mod h1:cJEP6mEdiQu3o1t9wZ06V4dPGLoxUgxEXnpg5wRG7d4=
+github.com/go-composites/bigfloat v0.0.0-20260831114743-525d3973e32a h1:70WXekfpulFMPh6EyA7QcXTuT6S0VWzJfrD0YvFbpnM=
+github.com/go-composites/bigfloat v0.0.0-20260831114743-525d3973e32a/go.mod h1:KzMt0kqQs95dmvg8mLBnkpKeXsv66Xq9CZN3bj8+BHU=
 github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4 h1:/j9gmNxaTnqw2eJqgZEGGrWbkOZwsogJk5/ZBEU0Ojk=
 github.com/go-composites/bignumber v0.0.0-20260621063131-a5e1717abff4/go.mod h1:59dCDyAuCzyTWd0fxj3U+V160vEg1H6RUsFPueY5Roc=
 github.com/go-composites/bignumber v0.0.0-20260830075446-49650eed0794 h1:HtuhrvUDywPuY57CTXxBQxlq81gJP9NZxPcSULDhJKw=
@@ -34,6 +40,8 @@ github.com/go-composites/bignumber v0.0.0-20260830144250-80c7a4d773f7 h1:Ba5CUlG
 github.com/go-composites/bignumber v0.0.0-20260830144250-80c7a4d773f7/go.mod h1:qBhs8VUcivMB44Y3NgubaI2WG3z3Txs1QWzNcTyxPd0=
 github.com/go-composites/bignumber v0.0.0-20260831064109-ba87a395aae5 h1:2xLEz6B2HLxa7M3qn0kNePiewuylKMnA+e11uZeHEHM=
 github.com/go-composites/bignumber v0.0.0-20260831064109-ba87a395aae5/go.mod h1:9QpcQaKHECRA6VJ7RzWROHGOs5Ji0uzO1lsq6Xkhm50=
+github.com/go-composites/bignumber v0.0.0-20260831114743-38c538df9c5d h1:0wWNYmTpNEa3xzkIIvds41XwX3HqEw4iiP9kJ+eWUC8=
+github.com/go-composites/bignumber v0.0.0-20260831114743-38c538df9c5d/go.mod h1:oy3pPQGlqO3m1jw4kUL4uq7rG3VeefiDtwTKld7vRkk=
 github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02 h1:2TQvwbOZVFAN9AM/isddbIi0vRLtwwSaDi/w084a7Ww=
 github.com/go-composites/boolean v0.0.0-20260621162603-616ca415fe02/go.mod h1:+Ri1DTHiTCa404bJY2qRfBIy6a6dBA/Mgn5wx196Gzc=
 github.com/go-composites/boolean v0.0.0-20260830075415-de57fb71ce4f h1:uer6GC/hALxut+BYj3ylwZPgmBmUCe2NqpbskkF6+HA=
@@ -42,6 +50,8 @@ github.com/go-composites/boolean v0.0.0-20260830151016-dfc0c7f20b15 h1:nMTg2LH8c
 github.com/go-composites/boolean v0.0.0-20260830151016-dfc0c7f20b15/go.mod h1:meB1cBqes+wOD4vMzbENErwHB6I7fx8Hh9czimRJ/60=
 github.com/go-composites/boolean v0.0.0-20260831064055-3ccc89478134 h1:3n74hCjzEJLV+qtkGdFw6qQ0Ydzi7GzS1hUhF756mNs=
 github.com/go-composites/boolean v0.0.0-20260831064055-3ccc89478134/go.mod h1:PR9135Zx2yi2HOwaUynXWJ7WGEGFi3cmSiXPfvs5AEU=
+github.com/go-composites/boolean v0.0.0-20260831114728-9b8bb8bf9eb1 h1:5BByIwpq2QvjSrT3zFD6V9Vvu4k9TeTyxFatfM3rFbg=
+github.com/go-composites/boolean v0.0.0-20260831114728-9b8bb8bf9eb1/go.mod h1:L0i4DifMXy5x2zESJIrxPAV9gs8y0BYuvkJAjz4WkCU=
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c h1:lmcAw2oVtYnkzGn11wXq2r2GdUAwmj88ULDHfATiT8g=
 github.com/go-composites/buffer v0.0.0-20260621053722-8277f1bce43c/go.mod h1:bn7e0tulw0QZv+9cu5b3aqmVqBYTFewbQqBw4NJs3/U=
 github.com/go-composites/buffer v0.0.0-20260830075449-1c99fc3bac86 h1:YNL7FOxqblrPxrvAZmqn6754BCTR2X4JqEPKhm3eGoA=
@@ -56,6 +66,8 @@ github.com/go-composites/complex v0.0.0-20260830151016-33745c277d75 h1:pmSJ3mngN
 github.com/go-composites/complex v0.0.0-20260830151016-33745c277d75/go.mod h1:WqHqp2BMaNYtvcmAuRqgcl7zgHc+0y+S4XCuZat1qJY=
 github.com/go-composites/complex v0.0.0-20260831064011-58007dca5066 h1:1hcxSjz+QXkgJwdVnZdqQZCDI2slrMSD/dNdeyIC5uE=
 github.com/go-composites/complex v0.0.0-20260831064011-58007dca5066/go.mod h1:ZavdUPxbiVAxBJhu5jNQRMpGj3Y3Th/dz6Z861cH7kw=
+github.com/go-composites/complex v0.0.0-20260831114733-e90db97ea630 h1:q5Hse+g0p1mEX+XCxhSFkJNeezs0F1c+ypYNepE+ELE=
+github.com/go-composites/complex v0.0.0-20260831114733-e90db97ea630/go.mod h1:WR75dQh/WW3n15VLIjFgXTKDqZN0dICQiliJskb5tD4=
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe h1:yEJlneGevTHI25Ua+pSXFOwJzFmAWggBIngyVZ8xTJc=
 github.com/go-composites/date v0.0.0-20260621182336-3423c9afe5fe/go.mod h1:JVYwzG9Z9fmIWf259cHUQwBFfufME4hLvG7EENI4UOA=
 github.com/go-composites/date v0.0.0-20260830075454-5dfe4e97e4c7 h1:Yh/RoBepdhTtpFNZiAT2AKkvw9SzmZ1Jo1ckgvIhZCY=
@@ -64,6 +76,8 @@ github.com/go-composites/date v0.0.0-20260830144557-cf159ef1af5e h1:6uGtd3zsknU8
 github.com/go-composites/date v0.0.0-20260830144557-cf159ef1af5e/go.mod h1:Ew1aYIdMoDjjb7Gcv8u4JVUaW71eEr79KFR3MTj4SmY=
 github.com/go-composites/date v0.0.0-20260831064048-53d5f9ced216 h1:ZuUsCQEFu8sEI0F/GtNPvXVlYoGIdVxzS/ACYIh8qyI=
 github.com/go-composites/date v0.0.0-20260831064048-53d5f9ced216/go.mod h1:T3kxwTAigyQtjihllKbeTm2yFOL5uiIjmwhEZiKUDxU=
+github.com/go-composites/date v0.0.0-20260831114701-365d848b3995 h1:KQMgy5wDuL9TVJ9oA2oxRSHnImoxcUYVOLIM55cbG2M=
+github.com/go-composites/date v0.0.0-20260831114701-365d848b3995/go.mod h1:F0P5+kMzwZHc1d0Cs88F6grxKjs9Z7nsEaH3ulNCSzk=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de h1:fcrMKp0ZmhWPwjwGRwBFSctPzsVYGh9HCi/GSEo5AX4=
 github.com/go-composites/dictionary v0.0.0-20260621062926-bcc78dbd12de/go.mod h1:AoX4Zn6DyO1Ev2K+Yi0eNRo2Lu3DoIv7JOG8YNQ+4Is=
 github.com/go-composites/dictionary v0.0.0-20260830075430-cde38a320fea h1:Y2CtfDcxh6nX0JKVbY3NtOKjKdgsdJNSqGo7M2VJc9I=
@@ -72,6 +86,8 @@ github.com/go-composites/dictionary v0.0.0-20260830144557-5843dbb6f0e5 h1:QIb41D
 github.com/go-composites/dictionary v0.0.0-20260830144557-5843dbb6f0e5/go.mod h1:ONMiTb78NhhO6hP9lGx705Svjp53zoSicij6XPXSa7c=
 github.com/go-composites/dictionary v0.0.0-20260831064048-1f074afaf7c7 h1:Yli0Mi+b7GDf4Mu4iCJeswwvp9A6YK/FZsBVb77L2uo=
 github.com/go-composites/dictionary v0.0.0-20260831064048-1f074afaf7c7/go.mod h1:im3OZHMfFMPBYOtbWywtigHYt5qJwbKOPzn5ZQ/5xM0=
+github.com/go-composites/dictionary v0.0.0-20260831114712-749b156bddd1 h1:hcDEC+9gI5IcXg/za5EnpHDzBXaN6u5EzugUDZNUw9w=
+github.com/go-composites/dictionary v0.0.0-20260831114712-749b156bddd1/go.mod h1:RtV09Gk0KRjqls1H9Bp9Xj30y6EUbGMECPAxx/jfTR8=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce h1:I0CZcwqnM+7nErVDiIL8o4tw/6/7sfDiQW23XGqyRnI=
 github.com/go-composites/enumerator v0.0.0-20260621063117-23de38ab26ce/go.mod h1:SJl46dHhrCLH5JTQkhFoloxIRwzMIpUCaMzVCnzhX1A=
 github.com/go-composites/enumerator v0.0.0-20260830075444-0ad087b8b1bb h1:KnU+f2tvZbNZK4/fT8NgFzanoDd1NSSEygw8A7s+js4=
@@ -80,6 +96,8 @@ github.com/go-composites/enumerator v0.0.0-20260830144556-79c01555962c h1:+IITpZ
 github.com/go-composites/enumerator v0.0.0-20260830144556-79c01555962c/go.mod h1:F1985hggyhc8ebG01W7eVLTEondak7M6BWQ78Or9sA4=
 github.com/go-composites/enumerator v0.0.0-20260831064047-d988a857e9f6 h1:BgSFcIz9fc8AzN59JTWVjmPcuqzD497IQpNcs70DM88=
 github.com/go-composites/enumerator v0.0.0-20260831064047-d988a857e9f6/go.mod h1:Q0ZBxKELyksniafdus2XvaQV/hqHWLwZGolxQ8cloeQ=
+github.com/go-composites/enumerator v0.0.0-20260831114710-d031d79de3a0 h1:b2aINNv6MlezpSQ9Pr18PXw7Epz1FycU3XVDifnxxy4=
+github.com/go-composites/enumerator v0.0.0-20260831114710-d031d79de3a0/go.mod h1:2DYuhukrUiil3Tc0+X1Zp+5urxNWMbWAcfaUexdx8BA=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586 h1:gA6h4DA7NSiDoqwYDMUlQ2LO/dWx3VBq41nHIMQJskI=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586/go.mod h1:9Lf1BQDdG/DDzw+WaWctBOzk69PTLjREAiPcKfSUilU=
 github.com/go-composites/error v0.0.0-20260830075421-e9e68493eded h1:lVkmXqI0GyJ7qfCXL9RptTb9HhCIh+2dsXoQ6N2N8BE=
@@ -100,6 +118,8 @@ github.com/go-composites/number v0.0.0-20260830144552-3ae77c38a744 h1:uW+Yyus2zF
 github.com/go-composites/number v0.0.0-20260830144552-3ae77c38a744/go.mod h1:/j8s5Ae4AEZWVaBeL2YbKF1B7KrveqDh9svUeaW7hWk=
 github.com/go-composites/number v0.0.0-20260831064036-71b845b245af h1:dT142e5vBNnb5fBjq1kdLb46Wj7TX3oYASoaBhxqQ+k=
 github.com/go-composites/number v0.0.0-20260831064036-71b845b245af/go.mod h1:Ocyt3phDB/lP0jXeKur63Syl2Ds17+lioaKS5FjkAU4=
+github.com/go-composites/number v0.0.0-20260831114709-eaf7909d9111 h1:NoqPIER1qpRRyCK1Xmuk9t/hQj15tnt5x/NZuSxboSI=
+github.com/go-composites/number v0.0.0-20260831114709-eaf7909d9111/go.mod h1:4V60SmjUBgXoS2dz6QIESkLHnjw+yxrxplQvDGRKy68=
 github.com/go-composites/orderedset v0.0.0-20260621062955-a4dd786ee84f h1:KkO/T3JVKoDAxCggB+OeiYQOjB7UnPsfrye/cV98QwE=
 github.com/go-composites/orderedset v0.0.0-20260621062955-a4dd786ee84f/go.mod h1:OPFVeJrZLZy70BKXn/ktClWFV3emIJA9tZ+UhY5Xiwk=
 github.com/go-composites/orderedset v0.0.0-20260830075445-322f9f3a46d2 h1:TPXoyTYcC2MHkcv/VZg9nPvJBOk0YyPIYLWFy22Mz4c=
@@ -108,6 +128,8 @@ github.com/go-composites/orderedset v0.0.0-20260830144214-5a37687dcf88 h1:HTkqTx
 github.com/go-composites/orderedset v0.0.0-20260830144214-5a37687dcf88/go.mod h1:1L2Q+KwTXVNnEE10YRf6n0mBsnILK0dgzaU2kvno0XY=
 github.com/go-composites/orderedset v0.0.0-20260831064033-a3fd53e517c0 h1:TKQBPMrf2NTagX0j3jnhwU4BZ/1M80XGINZTIpVaKXE=
 github.com/go-composites/orderedset v0.0.0-20260831064033-a3fd53e517c0/go.mod h1:KYLDdo21Q3wpJ435Y5qEN2lUXPlgpTXmJrOq3/lHLMI=
+github.com/go-composites/orderedset v0.0.0-20260831114707-c569c06c037b h1:yeOfHEblf5bp1M9NC4iPMBckNZKSKB8HNGNzJUXxpwU=
+github.com/go-composites/orderedset v0.0.0-20260831114707-c569c06c037b/go.mod h1:k2mGbrH1gQBtzkenrAKb2ds3uNy7h9FTnYDUXdTISuU=
 github.com/go-composites/pair v0.0.0-20260621063021-f271464c717d h1:Bm8WcIPr85xjXxZFYnzHF++0xPfVSVuMcqSHSeJ9cN0=
 github.com/go-composites/pair v0.0.0-20260621063021-f271464c717d/go.mod h1:LLcGUHCJYSy4RpCs9p+LfEOmMtD8C/72oG4u4KB3hIQ=
 github.com/go-composites/pair v0.0.0-20260830075440-68c4309c5f44 h1:T31fFnsiJUjBbASxTvC2N1D6FQlSe6UPKO62uxqvJws=
@@ -116,6 +138,8 @@ github.com/go-composites/pair v0.0.0-20260830144552-c4f1dbb631df h1:bmL5f1IIkgx9
 github.com/go-composites/pair v0.0.0-20260830144552-c4f1dbb631df/go.mod h1:LXIs68/L3mMFmnimiF6YVky6O7HHXbVkKpqTbZQVlV4=
 github.com/go-composites/pair v0.0.0-20260831064027-a41d7e365469 h1:VqbnOSGJWVJ+AD9HzydjdIHGiQxICkXLwmS3T5epX70=
 github.com/go-composites/pair v0.0.0-20260831064027-a41d7e365469/go.mod h1:JeRf+M1LjmZtfYytGeiwDAgG2lHc0RZZsYU9q0sigV8=
+github.com/go-composites/pair v0.0.0-20260831114705-ac9055b69d4a h1:0b3bwIMTgzySKBLWbkyboQkkngC7DFgLnlAvF+S7NCU=
+github.com/go-composites/pair v0.0.0-20260831114705-ac9055b69d4a/go.mod h1:ExFTUflXEFyo0TCgkMM1q2L+LjW5g9r06gJC2w6/i60=
 github.com/go-composites/proc v0.0.0-20260621063101-5567df7f1cd2 h1:FXNi1IUbZA/2tWOJTZVUYlxEglpIRiIXfGhPTGTlp6c=
 github.com/go-composites/proc v0.0.0-20260621063101-5567df7f1cd2/go.mod h1:TPjzjS4BiLoZYGmkNQJUjM7OqMKWPWryoyVn1pqp8ok=
 github.com/go-composites/proc v0.0.0-20260830075441-26ecec46e8f8 h1:KTwh75NfhkKX4Zojg8LYIVOLWEGgCjjWtvCTEnJqbn4=
@@ -124,6 +148,8 @@ github.com/go-composites/proc v0.0.0-20260830151011-25777b77388f h1:DUKJvTYnK/KG
 github.com/go-composites/proc v0.0.0-20260830151011-25777b77388f/go.mod h1:8zv82UsD1HXwgGz11mf9/QQMN32sCDOUoiLYv+uMzJ0=
 github.com/go-composites/proc v0.0.0-20260831064025-27d96bf81d1b h1:+9Z7uwFNGh9MkKVGz8dutJvpvyBCO/BQdt7gp/BJMRo=
 github.com/go-composites/proc v0.0.0-20260831064025-27d96bf81d1b/go.mod h1:0zyT+EestBT5oNGCgAI4Bn83h3xZEQXR9upQu30tFX8=
+github.com/go-composites/proc v0.0.0-20260831114704-71d88d801917 h1:6UI1r6IJoRNcviu5VUOvsAooZ+xsC+UtWNJuIypQNYA=
+github.com/go-composites/proc v0.0.0-20260831114704-71d88d801917/go.mod h1:DF+NELLwTCi9Uu3UcXI6qr1nExFmzzKiiQ4XCQwXl6o=
 github.com/go-composites/range v0.0.0-20260621063037-435953badcc9 h1:YJQyBdU0V5hmtODi1Dl78SILjayHjDZg1eAXwt/Zcls=
 github.com/go-composites/range v0.0.0-20260621063037-435953badcc9/go.mod h1:lRtQUlNwT5/PG+num5R8BGZA36AlC1EdcsAGEzcM+QQ=
 github.com/go-composites/range v0.0.0-20260830075439-c1b3c43fd4d4 h1:BdYA38zRXvKSdFUtaPAklGtmFKqNDSZjgBrnSLxL1jo=
@@ -132,6 +158,8 @@ github.com/go-composites/range v0.0.0-20260830144206-897b1a659c82 h1:MID4K1IQxma
 github.com/go-composites/range v0.0.0-20260830144206-897b1a659c82/go.mod h1:0o1UWkqsfCUK/4eTYnyAVx73TxVlD31wWBFe9Mz4s7k=
 github.com/go-composites/range v0.0.0-20260831064022-b8aa240563b9 h1:lzCMRhiJpX9X4oRi+yf6fJWstR1t2ECidDVBOXom8cE=
 github.com/go-composites/range v0.0.0-20260831064022-b8aa240563b9/go.mod h1:TxHyLH9LZd3hAhoBRiOrI0itUPmOK0DCRh0qIa2NnZA=
+github.com/go-composites/range v0.0.0-20260831114701-b1c78f8477b8 h1:TZEnamOOgasMROTkqXfo9D6xtvuBS53HJr0dyfmhqec=
+github.com/go-composites/range v0.0.0-20260831114701-b1c78f8477b8/go.mod h1:+15ct6+li+a+k4UjE2FQWXt10ciUFzwASUJ6VanOcg8=
 github.com/go-composites/rational v0.0.0-20260621063143-c5b2c622c831 h1:CiDkezQdoO7lWsb7AqZmmCou7OogIxDo4fj2D7eDEFg=
 github.com/go-composites/rational v0.0.0-20260621063143-c5b2c622c831/go.mod h1:Uj5HaTYGNDdlYDPU3z4tqKxT0mtkAL9aEDWRNK/tNNo=
 github.com/go-composites/rational v0.0.0-20260830075448-58ae675a4cb7 h1:BWWfOC2H76+ZtYiq80tdj3tUUMjuxU0zn1QMLknBk9I=
@@ -140,6 +168,8 @@ github.com/go-composites/rational v0.0.0-20260830144203-b95af8cb1435 h1:O4gVprGY
 github.com/go-composites/rational v0.0.0-20260830144203-b95af8cb1435/go.mod h1:dBtPsmn9c1uLYBuONW0uwrqgnMGfVUm32lepHUquUbM=
 github.com/go-composites/rational v0.0.0-20260831064020-ce3affe7119e h1:szTdKHxLW/uNX8+4tK5COZanBdVvjwRC9Nf8mbalBf4=
 github.com/go-composites/rational v0.0.0-20260831064020-ce3affe7119e/go.mod h1:cvM2OGXtWxSkgL11/VK6jEJ4/+qCz2TMPQHaxVwmX6E=
+github.com/go-composites/rational v0.0.0-20260831115340-aaf37957000d h1:XdqA0EuIS96eepuXmVm2PWFst2nbb9FFLYp0rT4teOg=
+github.com/go-composites/rational v0.0.0-20260831115340-aaf37957000d/go.mod h1:seU7MOJVFwG1u1/p94eVPvNXHB8v+9zly3Dm6KBNe7Y=
 github.com/go-composites/result v0.0.0-20260621164801-bc2eac479381 h1:lefnD/dZINKBoIevcl16pbzh1A8B9jifm9rhenBkWUg=
 github.com/go-composites/result v0.0.0-20260621164801-bc2eac479381/go.mod h1:U8jOcQwbbSwQ3E5geccvv0lkwNv89piHYG/Jj1w18JQ=
 github.com/go-composites/result v0.0.0-20260830075423-4c0f0e8854cc h1:sLc9uhHzXlP39tvKybmHKtof9kQyNWz8MAG5ZxA/r3Y=
@@ -154,6 +184,8 @@ github.com/go-composites/set v0.0.0-20260830075438-997ebaab8954 h1:uxukIuHVxeGmy
 github.com/go-composites/set v0.0.0-20260830075438-997ebaab8954/go.mod h1:sF3/ImzeQT4pqc+xAF0pWrDTKhNrXxCOpSshwW4wcwU=
 github.com/go-composites/set v0.0.0-20260830144602-d056f70911b1 h1:too+OX9t6xM1iMaZXQ5ksM2M5XVbquD9LyRqyiEVt7c=
 github.com/go-composites/set v0.0.0-20260830144602-d056f70911b1/go.mod h1:I+Y18vxbN9swa177/Q+jzNHb5WQwqDyC502dmfpd73g=
+github.com/go-composites/set v0.0.0-20260831114725-dce14d52add6 h1:Guoq1/LB/g35sXtbxnIXuxQoj5Cs+pJ9igBJgTmDEsU=
+github.com/go-composites/set v0.0.0-20260831114725-dce14d52add6/go.mod h1:ftmvWr5rSzn7mj3tl+Nnqs5zip3K5cJrUtE/b2+MReQ=
 github.com/go-composites/sortedset v0.0.0-20260621063007-71b9d6a1b83a h1:hPharCH+e3A42iS3y/PdHGSwm6sotK2lWZ2ulaYnT2I=
 github.com/go-composites/sortedset v0.0.0-20260621063007-71b9d6a1b83a/go.mod h1:XpH+w7RII2WUg5KIUqz1Ltp03O5ecuKARZEd81C35IE=
 github.com/go-composites/sortedset v0.0.0-20260830075451-00ea1cfb3972 h1:HWrnyfYOu//q3gm6NdJ/OkzlRuAxDaiZb0nP2+wvQHU=
@@ -162,6 +194,8 @@ github.com/go-composites/sortedset v0.0.0-20260830144617-58053e148182 h1:6YNL+9E
 github.com/go-composites/sortedset v0.0.0-20260830144617-58053e148182/go.mod h1:84bwKPKxlcn2jPKTwt2J+Hx7l9+fDNWjCje16u3zW6o=
 github.com/go-composites/sortedset v0.0.0-20260831064037-ec56615af23e h1:Z0xkqOVk87ENdK5VnF3YBGBt4iRpZkbSLZFL8h9CgIQ=
 github.com/go-composites/sortedset v0.0.0-20260831064037-ec56615af23e/go.mod h1:ssKYPjjNGv+SlJwgh+yZR7lxaCfhLybpJlQkFZFoEkU=
+github.com/go-composites/sortedset v0.0.0-20260831115336-ef7f8d3c6cc8 h1:c7QFNdK4uJOsUJy+/Zdno5y4uDy9qOGWAM/l/Okv+o0=
+github.com/go-composites/sortedset v0.0.0-20260831115336-ef7f8d3c6cc8/go.mod h1:8DLTE/h+DhUSldWjTX+XwxI8yk5OhWF0NgWCIfj3q5k=
 github.com/go-composites/string v0.0.0-20260621062835-91506e1e3f94 h1:msdqTkDcHzlYl/9CKWYva3DZSBCvELKD0vSqeIPxyWw=
 github.com/go-composites/string v0.0.0-20260621062835-91506e1e3f94/go.mod h1:I9n1gFm3ccBxILOnBVLshjvZ19z5RbS4vIU67KAW9qA=
 github.com/go-composites/string v0.0.0-20260830075418-81b029a467c7 h1:49Zo4GvDjh6IiT9spMfknHAbTAJFGW1+Wvp6qBxhY+0=
@@ -170,6 +204,8 @@ github.com/go-composites/string v0.0.0-20260830151057-df09bfd12600 h1:25A1WVbzdw
 github.com/go-composites/string v0.0.0-20260830151057-df09bfd12600/go.mod h1:OGQtl0zzuzGVtMCowbj0omZcVbdA3AOgkZvojaFrpsc=
 github.com/go-composites/string v0.0.0-20260831064032-1eb7ee344577 h1:SSyY6++wMJt27v6vfYuiQqVYrq6KOO37XrKFmMpRuII=
 github.com/go-composites/string v0.0.0-20260831064032-1eb7ee344577/go.mod h1:vC4mzYDlVte0DwqG8gngclhaFibNWFJBnVhF9ySJqcs=
+github.com/go-composites/string v0.0.0-20260831115335-cbe87527857f h1:Eh0DYX4D0W7qfxk/H9hIugGvPSv0P4zMgIhD+1E0ihU=
+github.com/go-composites/string v0.0.0-20260831115335-cbe87527857f/go.mod h1:Z7VxQZEO79EcbnOxRWBt7+v+YLiirLQu01d2lwSXqXM=
 github.com/go-composites/symbol v0.0.0-20260620192045-edf501557380 h1:NZsHJUNzxKQbcbtItKvOJL1nh+7N2ZdfwCnLyJNl6u4=
 github.com/go-composites/symbol v0.0.0-20260620192045-edf501557380/go.mod h1:JujzPqqexqLKHfmEzMJx2K4mEhf5dEupd8285mwfm0Y=
 github.com/go-composites/symbol v0.0.0-20260830075436-6a78078fea50 h1:a0CkKcimPbvh3q+zkZTshU6frYrtC+4thMs4HYSWiEo=
@@ -184,6 +220,8 @@ github.com/go-composites/time v0.0.0-20260830144151-4d45d577bb57 h1:ylpOKjMy/gSs
 github.com/go-composites/time v0.0.0-20260830144151-4d45d577bb57/go.mod h1:MlWQrMc+p5BcUo4D7DtRhtWxW+JmpjfHtz3sjYkyZuE=
 github.com/go-composites/time v0.0.0-20260831064031-52cfd369dd32 h1:IeA9wre0x7TEZUD5nkCKYmR7chfDtLYKHrx3XJOa90g=
 github.com/go-composites/time v0.0.0-20260831064031-52cfd369dd32/go.mod h1:GqLtbo6Ph22JixzOmi/6qyK+f/NHZfEeUDPk0CFnRMQ=
+github.com/go-composites/time v0.0.0-20260831115335-1d86b2000576 h1:5IxeBCRoxnMimd80vzCPK5lHyaN378hSsIp+H4D1RYc=
+github.com/go-composites/time v0.0.0-20260831115335-1d86b2000576/go.mod h1:83ikWYFUvTwqGWWiO6BesiYwT6RXPd65PhkcU56Uih8=
 github.com/go-datetime/dates v0.1.0 h1:Uj8TaTZ09DXdq75EGQ/teFdrXpfVAC3ZDHAPQvPTnaA=
 github.com/go-datetime/dates v0.1.0/go.mod h1:KeZ1wUeMScJD6HOvj3hINwbsB+GCSFjJLWcJhrBlwIo=
 github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=
