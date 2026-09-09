@@ -11,15 +11,15 @@ require (
 	github.com/go-composites/buffer v0.0.0-20260903220149-244d6554ad12
 	github.com/go-composites/complex v0.0.0-20260905061318-fa24e7bd6c2b
 	github.com/go-composites/date v0.0.0-20260905061344-f355f4cb8a3d
-	github.com/go-composites/dictionary v0.0.0-20260907185817-87593cc2c24e
+	github.com/go-composites/dictionary v0.0.0-20260908121916-b487c7525572
 	github.com/go-composites/enumerator v0.0.0-20260906100310-1ac7232229b9
 	github.com/go-composites/error v0.0.0-20260903220219-cc4a1228280c
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23
-	github.com/go-composites/number v0.0.0-20260907185816-bf4e7ffe6165
+	github.com/go-composites/number v0.0.0-20260908121941-62082d73a3d3
 	github.com/go-composites/orderedset v0.0.0-20260906100305-3f338a7c5b21
 	github.com/go-composites/pair v0.0.0-20260906100203-52c731b03398
 	github.com/go-composites/proc v0.0.0-20260905061334-cfb5e5f7d3b8
-	github.com/go-composites/range v0.0.0-20260907185815-db38f99a9f70
+	github.com/go-composites/range v0.0.0-20260908122007-74fc3dbc8b5a
 	github.com/go-composites/rational v0.0.0-20260905061329-b8ca9609becc
 	github.com/go-composites/result v0.0.0-20260904101956-f4b09f308e35
 	github.com/go-composites/set v0.0.0-20260906100209-d229fad3726c
