@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c
-	github.com/go-composites/bag v0.0.0-20260923203350-0140c174beaf
+	github.com/go-composites/bag v0.0.0-20260926001757-20f4f02fb493
 	github.com/go-composites/bigfloat v0.0.0-20260922235814-cf4b56f69d70
 	github.com/go-composites/bignumber v0.0.0-20260922235832-33d0b6120a01
 	github.com/go-composites/boolean v0.0.0-20260922235852-6930b983ca11
