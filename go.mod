@@ -1,6 +1,6 @@
 module github.com/go-composites/composites
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c
