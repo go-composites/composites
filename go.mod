@@ -11,11 +11,11 @@ require (
 	github.com/go-composites/buffer v0.0.0-20261010193210-c7584184b83c
 	github.com/go-composites/complex v0.0.0-20261016000255-08b29ff5ea26
 	github.com/go-composites/date v0.0.0-20261016000421-570f9752c4ad
-	github.com/go-composites/dictionary v0.0.0-20261017234255-b05c8353d37b
+	github.com/go-composites/dictionary v0.0.0-20261021001937-fb67eecce440
 	github.com/go-composites/enumerator v0.0.0-20261017234316-1a188c270b9e
 	github.com/go-composites/error v0.0.0-20261012005711-d4891be7e6e3
 	github.com/go-composites/null v0.0.0-20261010193318-b5bad10074b1
-	github.com/go-composites/number v0.0.0-20261017000846-391bbd07ea4d
+	github.com/go-composites/number v0.0.0-20261021002056-53220cca5f19
 	github.com/go-composites/orderedset v0.0.0-20261017234355-22da6b3d0787
 	github.com/go-composites/pair v0.0.0-20261017234409-1f1225f47f76
 	github.com/go-composites/proc v0.0.0-20261016000626-35b2a29ca87f
