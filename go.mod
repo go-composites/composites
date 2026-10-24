@@ -19,7 +19,7 @@ require (
 	github.com/go-composites/orderedset v0.0.0-20261017234355-22da6b3d0787
 	github.com/go-composites/pair v0.0.0-20261017234409-1f1225f47f76
 	github.com/go-composites/proc v0.0.0-20261016000626-35b2a29ca87f
-	github.com/go-composites/range v0.0.0-20261018235357-1f1d8cdb0336
+	github.com/go-composites/range v0.0.0-20261023002021-ac3026b96f3e
 	github.com/go-composites/rational v0.0.0-20261016000703-dcb20d614a6e
 	github.com/go-composites/result v0.0.0-20261014005241-188da08131d5
 	github.com/go-composites/set v0.0.0-20261017234450-23159e9c95c4
