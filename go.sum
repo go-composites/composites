@@ -32,8 +32,8 @@ github.com/go-composites/pair v0.0.0-20261109012414-29f0e4b5980f h1:HdwF7YvzNAY/
 github.com/go-composites/pair v0.0.0-20261109012414-29f0e4b5980f/go.mod h1:i7gRXA8tqZLUPqWHpq7tHU7sU3tOApSEW0lJqb4QcoY=
 github.com/go-composites/proc v0.0.0-20261108010423-12b3f57a6d95 h1:+JAFBahG8hy0zCBt7Cy5SEkqgmhLEFmzFsTCZBYM4xU=
 github.com/go-composites/proc v0.0.0-20261108010423-12b3f57a6d95/go.mod h1:Kd9AW2/On/e4c009I7Tf3Ervl8rbY+1YvUO0hycB+y4=
-github.com/go-composites/range v0.0.0-20261112024331-514721655b00 h1:YyDLvX707i7yjj77kIruzG0aNAeTJ/MOc41MOGbFVuw=
-github.com/go-composites/range v0.0.0-20261112024331-514721655b00/go.mod h1:W5SRALY/uI+32BPH7j0omqFkEOZdrHVt56fDAGpK4yk=
+github.com/go-composites/range v0.0.0-20261115013107-f7ec188c824d h1:9vJHOlB2GiP1Is8O9ehPhv804MQtzZ4gEILysTptX+c=
+github.com/go-composites/range v0.0.0-20261115013107-f7ec188c824d/go.mod h1:EDyLtRX3I7Ut2stAmCgnX+vSDEHvdUCcHV7bvPfBios=
 github.com/go-composites/rational v0.0.0-20261108010450-623904078197 h1:BOLqqFwsSpuyRwU30ZtN7TDwye9DFYrQBlZBJB9iFgc=
 github.com/go-composites/rational v0.0.0-20261108010450-623904078197/go.mod h1:9RGip/npc1MDLfd2zw7saV32Yiz+mVZe+avjq1FXG8w=
 github.com/go-composites/result v0.0.0-20261106020326-f6bf56cd3d3f h1:k1hBRdmM0VCqrzdjmUHUGU/OTTLRscyexH3IJ8nKvCc=
